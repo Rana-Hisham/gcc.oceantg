@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            width: 150px;
+        }
+        .row {
+            background-color: #2a6ca3;
+            color: #fff;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .row span {
+            font-weight: normal;
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://gcc.oceantg.com/Images/otg_logo.png" alt="Ocean Technologies Group Logo">
+        </div>
+
+        <div class="row">
+            Issued by <span>Seagull, Horten</span>
+        </div>
+        <div class="row">
+            Course name <span>JRC ECDIS Product Specific Training</span>
+        </div>
+        <div class="row">
+            Course number <span>SID576033K/138298</span>
+        </div>
+        <div class="row">
+            Date of issue <span>20.11.2018</span>
+        </div>
+        <div class="row">
+            Status <span>Valid</span>
+        </div>
+        <div class="row">
+            Person name <span>fvvcc, Nabelsi Mustafa</span>
+        </div>
+        <div class="row">
+            Date of birth <span>21.03.1983</span>
+        </div>
+    </div>
+</body>
+</html>
